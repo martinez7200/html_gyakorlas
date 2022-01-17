@@ -1,9 +1,22 @@
-.html{
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+a {
+    font-size: 30px;
     color: green;
+    font-family: 'Sen', sans-serif;
 }
-.htmlv{
+
+a:hover {
     color: lime;
+    text-decoration: none;
 }
-.css{
-    color: green;
+
+img {
+    width: 300px;
+    margin: 30px;
+}
+
+img:hover {
+    width: 400px;
+    margin: 0;
 }
